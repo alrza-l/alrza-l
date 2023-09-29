@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alrza-l
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ deeper
+- 🌱 I’m currently learning C# and svelte just out of interest
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me by my email. sudo.bahrami.alireza@gmail.com
 
